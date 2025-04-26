@@ -10,3 +10,4 @@ pdfs/
 
 # Virtual environments
 .venv
+.env
