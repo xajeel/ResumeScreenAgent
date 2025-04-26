@@ -1,2 +1,4 @@
 langchain_community
 pypdf
+PyPDF2
+python-dotenv
