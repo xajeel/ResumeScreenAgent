@@ -5,9 +5,13 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "ctktable>=1.1",
+    "customtkinter>=5.2.2",
     "google-generativeai>=0.8.5",
     "langchain-community>=0.3.22",
+    "pandas>=2.2.3",
     "pypdf>=5.4.0",
     "pypdf2>=3.0.1",
+    "pyqt6>=6.9.0",
     "python-dotenv>=1.1.0",
 ]

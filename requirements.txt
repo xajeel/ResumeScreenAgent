@@ -3,3 +3,6 @@ pypdf
 PyPDF2
 python-dotenv
 google-generativeai
+customtkinter 
+CTkTable
+pandas

@@ -23,3 +23,4 @@ def save_candidates_to_csv(data):
                 writer = csv.writer(file)
                 writer.writerow([json_data["name"], json_data["email"], json_data["phone_number"], json_data["matching_score"]])
     print(f"File Saved at: {csv_file_path}")
+    return csv_file_path
